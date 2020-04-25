@@ -1,0 +1,13 @@
+{
+    "Username": "tester+1@test.com",
+    "LastName": "Mustermann",
+    "Email": "test@test.com", 
+    "Alias": "tester1",
+    "TimeZoneSidKey": "Europe/Berlin",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "System Administrator",
+    "permsets": [""],
+    "generatePassword": true
+}
